@@ -19,3 +19,13 @@
 .cor-especial{
     color:darkred;
 }
+
+
+.botao-cor-especial{
+    background-color: darkred;
+    color: #fff;
+}
+
+.borda-cor-especial{
+    border-color: darkred;
+}
